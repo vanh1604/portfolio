@@ -171,7 +171,7 @@ body{
     font-weight: bold;
 }
 .main-right-content__flex.list{
-    justify-content: space-between;
+    justify-content: space-around;
     width: 100%;
     margin-top: 20px;
 }
